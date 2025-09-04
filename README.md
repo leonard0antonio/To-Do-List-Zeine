@@ -17,6 +17,10 @@ Aplicação desenvolvida em **React + Vite + TypeScript** para gerenciar uma lis
 - 📱 Layout totalmente responsivo  
 - 🎨 Identidade visual inspirada no estilo da Zeine  
 
+## 📸 Demonstração  
+
+![Demo da aplicação](public/demo.gif)
+
 ## ▶️ Como rodar localmente  
 ```bash
 # Clonar o repositório
@@ -34,6 +38,3 @@ npm run dev
 A aplicação estará disponível em:
 👉 http://localhost:5173
 
-## 📸 Demonstração  
-
-![Demo da aplicação](public/demo.gif)
