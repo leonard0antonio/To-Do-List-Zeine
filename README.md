@@ -20,10 +20,10 @@ Aplicação desenvolvida em **React + Vite + TypeScript** para gerenciar uma lis
 ## ▶️ Como rodar localmente  
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/todo-zeine.git
+git clone https://github.com/leonard0antonio/To-Do-List-Zeine
 
 # Entrar na pasta do projeto
-cd todo-zeine
+cd To-Do-List-Zeine
 
 # Instalar dependências
 npm install
