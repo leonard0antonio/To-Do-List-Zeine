@@ -34,3 +34,6 @@ npm run dev
 A aplicação estará disponível em:
 👉 http://localhost:5173
 
+## 📸 Demonstração  
+
+![Demo da aplicação](public/demo.gif)
